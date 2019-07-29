@@ -5,6 +5,9 @@
 [Bb]uilds/
 Assets/AssetStoreTools*
 
+# Include webgl-build build folder
+!build-webgl/Build
+
 # Visual Studio cache directory
 .vs/
 
