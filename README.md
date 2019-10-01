@@ -5,28 +5,34 @@ A small unity game with two sword fighting stick figures. It is best played usin
 https://0x3b29.github.io/stick-fighter/build-webgl/index.html 
 
 ## Controller keys
-X           Jump
-A           Hit
-B           Flip
-Triggers    Legs
-Left stick  Turn
+| Key | Function |
+| --- | --- |
+|  X           | Jump |
+|  A           | Hit |
+|  B           | Flip |
+|  Triggers    | Legs |
+|  Left stick  | Turn |
 
 ## Keyboard keys player 1
-Q           Turn left
-W           Turn right
-S           Jump
-D           Hit
-F           Flip
+| Key | Function |
+| --- | --- |
+|  Q           | Turn left |
+|  W           | Turn right |
+|  S           | Jump |
+|  D           | Hit |
+|  F           | Flip |
 
-E           Left leg
-R           Right leg
+|  E           | Left leg |
+|  R           | Right leg |
 
 ## Keyboard keys player 2
-Z           Turn left
-U           Turn right
-J           Jump
-K           Hit
-L           Flip
+| Key | Function |
+| --- | --- |
+|  Z           | Turn left |
+|  U           | Turn right |
+|  J           | Jump |
+|  K           | Hit |
+|  L           | Flip |
 
-O           Left leg
-P           Right leg
+|  O           | Left leg |
+|  P           | Right leg |
